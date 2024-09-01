@@ -1,0 +1,1 @@
+# A bash script to dump schema and data for multiple databases

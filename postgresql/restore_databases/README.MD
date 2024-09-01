@@ -1,0 +1,1 @@
+# A bash script to restore schema and data for multiple databases
